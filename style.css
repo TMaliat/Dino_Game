@@ -3,7 +3,7 @@
     margin:0;
 }
 
-#game{
+.game{
     width:500px;
     height:200px;
     border: 3px solid black;
